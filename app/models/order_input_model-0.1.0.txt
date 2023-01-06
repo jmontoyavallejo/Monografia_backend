@@ -1,6 +1,6 @@
-unit_sales(in millions)
+unit_sales_in_millions
 total_children
-avg_cars_at home(approx)
+avg_cars_at_home_approx
 num_children_at_home
 SRP
 net_weight
@@ -88,14 +88,14 @@ occupation_Professional
 occupation_Skilled Manual
 houseowner_N
 houseowner_Y
-avg. yearly_income_$10K - $30K
-avg. yearly_income_$110K - $130K
-avg. yearly_income_$130K - $150K
-avg. yearly_income_$150K +
-avg. yearly_income_$30K - $50K
-avg. yearly_income_$50K - $70K
-avg. yearly_income_$70K - $90K
-avg. yearly_income_$90K - $110K
+avg_yearly_income_$10K - $30K
+avg_yearly_income_$110K - $130K
+avg_yearly_income_$130K - $150K
+avg_yearly_income_$150K +
+avg_yearly_income_$30K - $50K
+avg_yearly_income_$50K - $70K
+avg_yearly_income_$70K - $90K
+avg_yearly_income_$90K - $110K
 store_type_Deluxe Supermarket
 store_type_Gourmet Supermarket
 store_type_Mid-Size Grocery
