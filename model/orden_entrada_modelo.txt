@@ -13,8 +13,10 @@ coffee_bar
 video_store
 prepared_food
 florist
+food_family_Drink
 food_family_Food
 food_family_Non-Consumable
+promotion_name_Bag Stuffers
 promotion_name_Best Savings
 promotion_name_Big Promo
 promotion_name_Big Time Discounts
@@ -63,22 +65,30 @@ promotion_name_Unbeatable Price Savers
 promotion_name_Wallet Savers
 promotion_name_Weekend Markdown
 promotion_name_You Save Days
+sales_country_Canada
 sales_country_Mexico
 sales_country_USA
+marital_status_M
 marital_status_S
+gender_F
 gender_M
+education_Bachelors Degree
 education_Graduate Degree
 education_High School Degree
 education_Partial College
 education_Partial High School
+member_card_Bronze
 member_card_Golden
 member_card_Normal
 member_card_Silver
+occupation_Clerical
 occupation_Management
 occupation_Manual
 occupation_Professional
 occupation_Skilled Manual
+houseowner_N
 houseowner_Y
+avg. yearly_income_$10K - $30K
 avg. yearly_income_$110K - $130K
 avg. yearly_income_$130K - $150K
 avg. yearly_income_$150K +
@@ -86,10 +96,12 @@ avg. yearly_income_$30K - $50K
 avg. yearly_income_$50K - $70K
 avg. yearly_income_$70K - $90K
 avg. yearly_income_$90K - $110K
+store_type_Deluxe Supermarket
 store_type_Gourmet Supermarket
 store_type_Mid-Size Grocery
 store_type_Small Grocery
 store_type_Supermarket
+store_city_Acapulco
 store_city_Bellingham
 store_city_Beverly Hills
 store_city_Bremerton
@@ -108,6 +120,7 @@ store_city_Spokane
 store_city_Tacoma
 store_city_Vancouver
 store_city_Victoria
+store_state_BC
 store_state_CA
 store_state_DF
 store_state_Guerrero
@@ -117,6 +130,7 @@ store_state_Veracruz
 store_state_WA
 store_state_Yucatan
 store_state_Zacatecas
+media_type_Bulk Mail
 media_type_Cash Register Handout
 media_type_Daily Paper
 media_type_Daily Paper, Radio
