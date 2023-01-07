@@ -8,6 +8,8 @@ from app.models.model import __version__ as model_version
 origins = [
     "http://localhost",
     "http://localhost:3000",
+    "https://ephemeral-lolly-5a0ff4.netlify.app/",
+    
 ]
 app=FastAPI()
 
